@@ -1,6 +1,6 @@
-# Unreal Project Base
+# True First Person Template (TFPT)
 
-UE 5.5 project
+An advanced extension of the Anim Sample Project (GASP) UE 5.5 project, aiming to provide component and data driven item systems, UI with Common UI, and more.
 
 
 ### High Concept
