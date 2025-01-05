@@ -1,6 +1,6 @@
 # True First Person Template (TFPT)
 
-An advanced extension of the Anim Sample Project (GASP) UE 5.5 project, aiming to provide component and data driven item systems, UI with Common UI, and more.
+An advanced extension of the Anim Sample Project (GASP), aiming to provide a True First Person Template with Shooter and Hero style gameplay examples, all in blueprints, utilizing component and data driven item systems, UI with Common UI, and more.
 
 
 ### High Concept
